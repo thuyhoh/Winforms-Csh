@@ -1,0 +1,17 @@
+D:\Program_Languages\Csh-Winforms\Winforms\WindowsFormsApp_Webcam\WindowsFormsApp_Webcam\bin\Debug\WindowsFormsApp_Webcam.exe.config
+D:\Program_Languages\Csh-Winforms\Winforms\WindowsFormsApp_Webcam\WindowsFormsApp_Webcam\bin\Debug\WindowsFormsApp_Webcam.exe
+D:\Program_Languages\Csh-Winforms\Winforms\WindowsFormsApp_Webcam\WindowsFormsApp_Webcam\bin\Debug\WindowsFormsApp_Webcam.pdb
+D:\Program_Languages\Csh-Winforms\Winforms\WindowsFormsApp_Webcam\WindowsFormsApp_Webcam\bin\Debug\AForge.Video.DirectShow.dll
+D:\Program_Languages\Csh-Winforms\Winforms\WindowsFormsApp_Webcam\WindowsFormsApp_Webcam\bin\Debug\AForge.Video.dll
+D:\Program_Languages\Csh-Winforms\Winforms\WindowsFormsApp_Webcam\WindowsFormsApp_Webcam\bin\Debug\AForge.dll
+D:\Program_Languages\Csh-Winforms\Winforms\WindowsFormsApp_Webcam\WindowsFormsApp_Webcam\bin\Debug\AForge.Video.xml
+D:\Program_Languages\Csh-Winforms\Winforms\WindowsFormsApp_Webcam\WindowsFormsApp_Webcam\bin\Debug\AForge.Video.DirectShow.xml
+D:\Program_Languages\Csh-Winforms\Winforms\WindowsFormsApp_Webcam\WindowsFormsApp_Webcam\bin\Debug\AForge.xml
+D:\Program_Languages\Csh-Winforms\Winforms\WindowsFormsApp_Webcam\WindowsFormsApp_Webcam\obj\Debug\WindowsFormsApp_Webcam.csproj.AssemblyReference.cache
+D:\Program_Languages\Csh-Winforms\Winforms\WindowsFormsApp_Webcam\WindowsFormsApp_Webcam\obj\Debug\WindowsFormsApp_Webcam.Form1.resources
+D:\Program_Languages\Csh-Winforms\Winforms\WindowsFormsApp_Webcam\WindowsFormsApp_Webcam\obj\Debug\WindowsFormsApp_Webcam.Properties.Resources.resources
+D:\Program_Languages\Csh-Winforms\Winforms\WindowsFormsApp_Webcam\WindowsFormsApp_Webcam\obj\Debug\WindowsFormsApp_Webcam.csproj.GenerateResource.cache
+D:\Program_Languages\Csh-Winforms\Winforms\WindowsFormsApp_Webcam\WindowsFormsApp_Webcam\obj\Debug\WindowsFormsApp_Webcam.csproj.CoreCompileInputs.cache
+D:\Program_Languages\Csh-Winforms\Winforms\WindowsFormsApp_Webcam\WindowsFormsApp_Webcam\obj\Debug\WindowsF.F7CDEEB6.Up2Date
+D:\Program_Languages\Csh-Winforms\Winforms\WindowsFormsApp_Webcam\WindowsFormsApp_Webcam\obj\Debug\WindowsFormsApp_Webcam.exe
+D:\Program_Languages\Csh-Winforms\Winforms\WindowsFormsApp_Webcam\WindowsFormsApp_Webcam\obj\Debug\WindowsFormsApp_Webcam.pdb
