@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GUI\\Winforms-Csh\\Tutorial-Templates\\WindowsFormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47AC0E66-1C6B-4B69-B9B7-C2B2867B6F3B}|WindowsFormsApp\\WindowsFormsApp.csproj|D:\\GUI\\Winforms-Csh\\Tutorial-Templates\\WindowsFormsApp\\windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47AC0E66-1C6B-4B69-B9B7-C2B2867B6F3B}|WindowsFormsApp\\WindowsFormsApp.csproj|solutionrelative:windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AC0E66-1C6B-4B69-B9B7-C2B2867B6F3B}|WindowsFormsApp\\WindowsFormsApp.csproj|d:\\gui\\winforms-csh\\tutorial-templates\\windowsformsapp\\windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47AC0E66-1C6B-4B69-B9B7-C2B2867B6F3B}|WindowsFormsApp\\WindowsFormsApp.csproj|solutionrelative:windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GUI\\Winforms-Csh\\Tutorial-Templates\\WindowsFormsApp\\WindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp\\Form1.cs",
+              "ToolTip": "D:\\GUI\\Winforms-Csh\\Tutorial-Templates\\WindowsFormsApp\\WindowsFormsApp\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp\\Form1.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAiwIsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:00:56.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GUI\\Winforms-Csh\\Tutorial-Templates\\WindowsFormsApp\\WindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp\\Form1.cs",
+              "ToolTip": "D:\\GUI\\Winforms-Csh\\Tutorial-Templates\\WindowsFormsApp\\WindowsFormsApp\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T06:30:50.135Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
