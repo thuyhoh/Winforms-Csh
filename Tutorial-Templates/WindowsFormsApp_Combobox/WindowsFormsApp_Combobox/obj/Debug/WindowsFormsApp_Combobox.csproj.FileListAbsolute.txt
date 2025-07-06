@@ -1,0 +1,11 @@
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Combobox\WindowsFormsApp_Combobox\bin\Debug\WindowsFormsApp_Combobox.exe.config
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Combobox\WindowsFormsApp_Combobox\bin\Debug\WindowsFormsApp_Combobox.exe
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Combobox\WindowsFormsApp_Combobox\bin\Debug\WindowsFormsApp_Combobox.pdb
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Combobox\WindowsFormsApp_Combobox\obj\Debug\WindowsFormsApp_Combobox.csproj.AssemblyReference.cache
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Combobox\WindowsFormsApp_Combobox\obj\Debug\WindowsFormsApp_Combobox.Form1.resources
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Combobox\WindowsFormsApp_Combobox\obj\Debug\WindowsFormsApp_Combobox.Properties.Resources.resources
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Combobox\WindowsFormsApp_Combobox\obj\Debug\WindowsFormsApp_Combobox.csproj.GenerateResource.cache
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Combobox\WindowsFormsApp_Combobox\obj\Debug\WindowsFormsApp_Combobox.csproj.CoreCompileInputs.cache
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Combobox\WindowsFormsApp_Combobox\obj\Debug\WindowsFormsApp_Combobox.exe
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Combobox\WindowsFormsApp_Combobox\obj\Debug\WindowsFormsApp_Combobox.pdb
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Combobox\WindowsFormsApp_Combobox\obj\Debug\WindowsFormsApp_Combobox.exe.config
