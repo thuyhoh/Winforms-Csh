@@ -1,0 +1,17 @@
+D:\GUI\Winforms-Csh\Tutorial-Templates\WinFormsApp_Button\WinFormsApp_Button\bin\Debug\net8.0-windows\WinFormsApp_Button.exe
+D:\GUI\Winforms-Csh\Tutorial-Templates\WinFormsApp_Button\WinFormsApp_Button\bin\Debug\net8.0-windows\WinFormsApp_Button.deps.json
+D:\GUI\Winforms-Csh\Tutorial-Templates\WinFormsApp_Button\WinFormsApp_Button\bin\Debug\net8.0-windows\WinFormsApp_Button.runtimeconfig.json
+D:\GUI\Winforms-Csh\Tutorial-Templates\WinFormsApp_Button\WinFormsApp_Button\bin\Debug\net8.0-windows\WinFormsApp_Button.dll
+D:\GUI\Winforms-Csh\Tutorial-Templates\WinFormsApp_Button\WinFormsApp_Button\bin\Debug\net8.0-windows\WinFormsApp_Button.pdb
+D:\GUI\Winforms-Csh\Tutorial-Templates\WinFormsApp_Button\WinFormsApp_Button\obj\Debug\net8.0-windows\WinFormsApp_Button.Form1.resources
+D:\GUI\Winforms-Csh\Tutorial-Templates\WinFormsApp_Button\WinFormsApp_Button\obj\Debug\net8.0-windows\WinFormsApp_Button.csproj.GenerateResource.cache
+D:\GUI\Winforms-Csh\Tutorial-Templates\WinFormsApp_Button\WinFormsApp_Button\obj\Debug\net8.0-windows\WinFormsApp_Button.GeneratedMSBuildEditorConfig.editorconfig
+D:\GUI\Winforms-Csh\Tutorial-Templates\WinFormsApp_Button\WinFormsApp_Button\obj\Debug\net8.0-windows\WinFormsApp_Button.AssemblyInfoInputs.cache
+D:\GUI\Winforms-Csh\Tutorial-Templates\WinFormsApp_Button\WinFormsApp_Button\obj\Debug\net8.0-windows\WinFormsApp_Button.AssemblyInfo.cs
+D:\GUI\Winforms-Csh\Tutorial-Templates\WinFormsApp_Button\WinFormsApp_Button\obj\Debug\net8.0-windows\WinFormsApp_Button.csproj.CoreCompileInputs.cache
+D:\GUI\Winforms-Csh\Tutorial-Templates\WinFormsApp_Button\WinFormsApp_Button\obj\Debug\net8.0-windows\WinFormsApp_Button.sourcelink.json
+D:\GUI\Winforms-Csh\Tutorial-Templates\WinFormsApp_Button\WinFormsApp_Button\obj\Debug\net8.0-windows\WinFormsApp_Button.dll
+D:\GUI\Winforms-Csh\Tutorial-Templates\WinFormsApp_Button\WinFormsApp_Button\obj\Debug\net8.0-windows\refint\WinFormsApp_Button.dll
+D:\GUI\Winforms-Csh\Tutorial-Templates\WinFormsApp_Button\WinFormsApp_Button\obj\Debug\net8.0-windows\WinFormsApp_Button.pdb
+D:\GUI\Winforms-Csh\Tutorial-Templates\WinFormsApp_Button\WinFormsApp_Button\obj\Debug\net8.0-windows\WinFormsApp_Button.genruntimeconfig.cache
+D:\GUI\Winforms-Csh\Tutorial-Templates\WinFormsApp_Button\WinFormsApp_Button\obj\Debug\net8.0-windows\ref\WinFormsApp_Button.dll
