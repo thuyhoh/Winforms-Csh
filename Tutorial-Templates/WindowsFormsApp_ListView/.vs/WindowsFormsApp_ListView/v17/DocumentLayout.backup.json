@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GUI\\Winforms-Csh\\Tutorial-Templates\\WindowsFormsApp_ListView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD85847-924F-4150-BA62-7165E5499E1F}|WindowsFormsApp_ListView\\WindowsFormsApp_ListView.csproj|d:\\gui\\winforms-csh\\tutorial-templates\\windowsformsapp_listview\\windowsformsapp_listview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD85847-924F-4150-BA62-7165E5499E1F}|WindowsFormsApp_ListView\\WindowsFormsApp_ListView.csproj|solutionrelative:windowsformsapp_listview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD85847-924F-4150-BA62-7165E5499E1F}|WindowsFormsApp_ListView\\WindowsFormsApp_ListView.csproj|D:\\GUI\\Winforms-Csh\\Tutorial-Templates\\WindowsFormsApp_ListView\\windowsformsapp_listview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CD85847-924F-4150-BA62-7165E5499E1F}|WindowsFormsApp_ListView\\WindowsFormsApp_ListView.csproj|solutionrelative:windowsformsapp_listview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GUI\\Winforms-Csh\\Tutorial-Templates\\WindowsFormsApp_ListView\\WindowsFormsApp_ListView\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_ListView\\Form1.cs",
+              "ToolTip": "D:\\GUI\\Winforms-Csh\\Tutorial-Templates\\WindowsFormsApp_ListView\\WindowsFormsApp_ListView\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp_ListView\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAwwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T06:05:55.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GUI\\Winforms-Csh\\Tutorial-Templates\\WindowsFormsApp_ListView\\WindowsFormsApp_ListView\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp_ListView\\Form1.cs",
+              "ToolTip": "D:\\GUI\\Winforms-Csh\\Tutorial-Templates\\WindowsFormsApp_ListView\\WindowsFormsApp_ListView\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp_ListView\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T06:05:00.624Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

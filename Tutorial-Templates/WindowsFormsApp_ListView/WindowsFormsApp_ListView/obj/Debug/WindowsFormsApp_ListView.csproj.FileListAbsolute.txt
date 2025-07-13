@@ -1,0 +1,11 @@
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_ListView\WindowsFormsApp_ListView\bin\Debug\WindowsFormsApp_ListView.exe.config
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_ListView\WindowsFormsApp_ListView\bin\Debug\WindowsFormsApp_ListView.exe
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_ListView\WindowsFormsApp_ListView\bin\Debug\WindowsFormsApp_ListView.pdb
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_ListView\WindowsFormsApp_ListView\obj\Debug\WindowsFormsApp_ListView.csproj.AssemblyReference.cache
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_ListView\WindowsFormsApp_ListView\obj\Debug\WindowsFormsApp_ListView.Form1.resources
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_ListView\WindowsFormsApp_ListView\obj\Debug\WindowsFormsApp_ListView.Properties.Resources.resources
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_ListView\WindowsFormsApp_ListView\obj\Debug\WindowsFormsApp_ListView.csproj.GenerateResource.cache
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_ListView\WindowsFormsApp_ListView\obj\Debug\WindowsFormsApp_ListView.csproj.CoreCompileInputs.cache
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_ListView\WindowsFormsApp_ListView\obj\Debug\WindowsFormsApp_ListView.exe
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_ListView\WindowsFormsApp_ListView\obj\Debug\WindowsFormsApp_ListView.pdb
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_ListView\WindowsFormsApp_ListView\obj\Debug\WindowsFormsApp_ListView.exe.config
