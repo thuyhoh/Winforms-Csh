@@ -1,0 +1,11 @@
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Picturebox\WindowsFormsApp_Picturebox\bin\Debug\WindowsFormsApp_Picturebox.exe.config
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Picturebox\WindowsFormsApp_Picturebox\bin\Debug\WindowsFormsApp_Picturebox.exe
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Picturebox\WindowsFormsApp_Picturebox\bin\Debug\WindowsFormsApp_Picturebox.pdb
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Picturebox\WindowsFormsApp_Picturebox\obj\Debug\WindowsFormsApp_Picturebox.csproj.AssemblyReference.cache
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Picturebox\WindowsFormsApp_Picturebox\obj\Debug\WindowsFormsApp_Picturebox.Form1.resources
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Picturebox\WindowsFormsApp_Picturebox\obj\Debug\WindowsFormsApp_Picturebox.Properties.Resources.resources
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Picturebox\WindowsFormsApp_Picturebox\obj\Debug\WindowsFormsApp_Picturebox.csproj.GenerateResource.cache
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Picturebox\WindowsFormsApp_Picturebox\obj\Debug\WindowsFormsApp_Picturebox.csproj.CoreCompileInputs.cache
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Picturebox\WindowsFormsApp_Picturebox\obj\Debug\WindowsFormsApp_Picturebox.exe
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Picturebox\WindowsFormsApp_Picturebox\obj\Debug\WindowsFormsApp_Picturebox.pdb
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_Picturebox\WindowsFormsApp_Picturebox\obj\Debug\WindowsFormsApp_Picturebox.exe.config
