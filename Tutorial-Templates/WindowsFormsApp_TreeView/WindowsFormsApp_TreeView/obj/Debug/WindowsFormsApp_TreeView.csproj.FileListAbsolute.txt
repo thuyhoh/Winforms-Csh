@@ -1,0 +1,11 @@
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_TreeView\WindowsFormsApp_TreeView\bin\Debug\WindowsFormsApp_TreeView.exe.config
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_TreeView\WindowsFormsApp_TreeView\bin\Debug\WindowsFormsApp_TreeView.exe
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_TreeView\WindowsFormsApp_TreeView\bin\Debug\WindowsFormsApp_TreeView.pdb
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_TreeView\WindowsFormsApp_TreeView\obj\Debug\WindowsFormsApp_TreeView.csproj.AssemblyReference.cache
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_TreeView\WindowsFormsApp_TreeView\obj\Debug\WindowsFormsApp_TreeView.Form1.resources
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_TreeView\WindowsFormsApp_TreeView\obj\Debug\WindowsFormsApp_TreeView.Properties.Resources.resources
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_TreeView\WindowsFormsApp_TreeView\obj\Debug\WindowsFormsApp_TreeView.csproj.GenerateResource.cache
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_TreeView\WindowsFormsApp_TreeView\obj\Debug\WindowsFormsApp_TreeView.csproj.CoreCompileInputs.cache
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_TreeView\WindowsFormsApp_TreeView\obj\Debug\WindowsFormsApp_TreeView.exe
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_TreeView\WindowsFormsApp_TreeView\obj\Debug\WindowsFormsApp_TreeView.pdb
+D:\GUI\Winforms-Csh\Tutorial-Templates\WindowsFormsApp_TreeView\WindowsFormsApp_TreeView\obj\Debug\WindowsFormsApp_TreeView.exe.config
